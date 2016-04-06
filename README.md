@@ -28,7 +28,7 @@ it simply add the following line to your Podfile:
 
     pod "VKVideoPlayer", "~> 0.1.1"
 
-## Getting Start
+## Getting Started
 Simple way to play Http Live Streaming contents.
 
     VKVideoPlayerViewController *viewController = [[VKVideoPlayerViewController alloc] init];
